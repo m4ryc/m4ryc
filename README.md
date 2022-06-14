@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @m4ryc
-- 👀 I’m interested in teaching myself programming while I work a full-time job
-- 🌱 I’m currently learning the basics
+
 
 
 <!---
